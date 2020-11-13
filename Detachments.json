@@ -1,0 +1,218 @@
+[
+    {
+        "name": "Patrol Detachment",
+        "commandPoints": 2,
+        "roleSettings": [
+            {
+                "role": "HQ",
+                "min": 1,
+                "max": 2
+            },
+            {
+                "role": "Troops",
+                "min": 1,
+                "max": 3
+            },
+            {
+                "role": "Elites",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "FastAttack",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "HeavySupport",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "Flyer",
+                "min": 0,
+                "max": 2
+            }
+        ]
+    },
+    {
+        "name": "Battalion Detachment",
+        "commandPoints": 3,
+        "roleSettings": [
+            {
+                "role": "HQ",
+                "min": 2,
+                "max": 3
+            },
+            {
+                "role": "Troops",
+                "min": 3,
+                "max": 6
+            },
+            {
+                "role": "Elites",
+                "min": 0,
+                "max": 6
+            },
+            {
+                "role": "FastAttack",
+                "min": 0,
+                "max": 3
+            },
+            {
+                "role": "HeavySupport",
+                "min": 0,
+                "max": 3
+            },
+            {
+                "role": "Flyer",
+                "min": 0,
+                "max": 2
+            }
+        ]
+    },
+    {
+        "name": "Brigade Detachment",
+        "commandPoints": 4,
+        "roleSettings": [
+            {
+                "role": "HQ",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "role": "Troops",
+                "min": 6,
+                "max": 12
+            },
+            {
+                "role": "Elites",
+                "min": 3,
+                "max": 8
+            },
+            {
+                "role": "FastAttack",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "role": "HeavySupport",
+                "min": 3,
+                "max": 5
+            },
+            {
+                "role": "Flyer",
+                "min": 0,
+                "max": 2
+            }
+        ]
+    },
+    {
+        "name": "Vanguard Detachment",
+        "commandPoints": 3,
+        "roleSettings": [
+            {
+                "role": "HQ",
+                "min": 1,
+                "max": 2
+            },
+            {
+                "role": "Troops",
+                "min": 0,
+                "max": 3
+            },
+            {
+                "role": "Elites",
+                "min": 3,
+                "max": 6
+            },
+            {
+                "role": "FastAttack",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "HeavySupport",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "Flyer",
+                "min": 0,
+                "max": 2
+            }
+        ]
+    },
+    {
+        "name": "Spearhead Detachment",
+        "commandPoints": 3,
+        "roleSettings": [
+            {
+                "role": "HQ",
+                "min": 1,
+                "max": 2
+            },
+            {
+                "role": "Troops",
+                "min": 0,
+                "max": 3
+            },
+            {
+                "role": "Elites",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "FastAttack",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "HeavySupport",
+                "min": 3,
+                "max": 6
+            },
+            {
+                "role": "Flyer",
+                "min": 0,
+                "max": 2
+            }
+        ]
+    },
+    {
+        "name": "Outrider Detachment",
+        "commandPoints": 3,
+        "roleSettings": [
+            {
+                "role": "HQ",
+                "min": 1,
+                "max": 2
+            },
+            {
+                "role": "Troops",
+                "min": 0,
+                "max": 3
+            },
+            {
+                "role": "Elites",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "FastAttack",
+                "min": 3,
+                "max": 6
+            },
+            {
+                "role": "HeavySupport",
+                "min": 0,
+                "max": 2
+            },
+            {
+                "role": "Flyer",
+                "min": 0,
+                "max": 2
+            }
+        ]
+    }
+]
