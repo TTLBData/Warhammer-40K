@@ -2,217 +2,217 @@
     {
         "name": "Patrol Detachment",
         "cp": 2,
-        "roleSettings": [
-            {
+        "roleSettings": {
+            "HQ": {
                 "role": "HQ",
                 "min": 1,
                 "max": 2
             },
-            {
+            "Troops": {
                 "role": "Troops",
                 "min": 1,
                 "max": 3
             },
-            {
+            "Elites": {
                 "role": "Elites",
                 "min": 0,
                 "max": 2
             },
-            {
+            "FastAttack": {
                 "role": "FastAttack",
                 "min": 0,
                 "max": 2
             },
-            {
+            "HeavySupport": {
                 "role": "HeavySupport",
                 "min": 0,
                 "max": 2
             },
-            {
+            "Flyer": {
                 "role": "Flyer",
                 "min": 0,
                 "max": 2
             }
-        ]
+        }
     },
     {
         "name": "Battalion Detachment",
         "cp": 3,
-        "roleSettings": [
-            {
+        "roleSettings": {
+            "HQ": {
                 "role": "HQ",
                 "min": 2,
                 "max": 3
             },
-            {
+            "Troops": {
                 "role": "Troops",
                 "min": 3,
                 "max": 6
             },
-            {
+            "Elites": {
                 "role": "Elites",
                 "min": 0,
                 "max": 6
             },
-            {
+            "FastAttack": {
                 "role": "FastAttack",
                 "min": 0,
                 "max": 3
             },
-            {
+            "HeavySupport": {
                 "role": "HeavySupport",
                 "min": 0,
                 "max": 3
             },
-            {
+            "Flyer": {
                 "role": "Flyer",
                 "min": 0,
                 "max": 2
             }
-        ]
+        }
     },
     {
         "name": "Brigade Detachment",
         "cp": 4,
-        "roleSettings": [
-            {
+        "roleSettings": {
+            "HQ": {
                 "role": "HQ",
                 "min": 3,
                 "max": 5
             },
-            {
+            "Troops": {
                 "role": "Troops",
                 "min": 6,
                 "max": 12
             },
-            {
+            "Elites": {
                 "role": "Elites",
                 "min": 3,
                 "max": 8
             },
-            {
+            "FastAttack": {
                 "role": "FastAttack",
                 "min": 3,
                 "max": 5
             },
-            {
+            "HeavySupport": {
                 "role": "HeavySupport",
                 "min": 3,
                 "max": 5
             },
-            {
+            "Flyer": {
                 "role": "Flyer",
                 "min": 0,
                 "max": 2
             }
-        ]
+        }
     },
     {
         "name": "Vanguard Detachment",
         "cp": 3,
-        "roleSettings": [
-            {
+        "roleSettings": {
+            "HQ": {
                 "role": "HQ",
                 "min": 1,
                 "max": 2
             },
-            {
+            "Troops": {
                 "role": "Troops",
                 "min": 0,
                 "max": 3
             },
-            {
+            "Elites": {
                 "role": "Elites",
                 "min": 3,
                 "max": 6
             },
-            {
+            "FastAttack": {
                 "role": "FastAttack",
                 "min": 0,
                 "max": 2
             },
-            {
+            "HeavySupport": {
                 "role": "HeavySupport",
                 "min": 0,
                 "max": 2
             },
-            {
+            "Flyer": {
                 "role": "Flyer",
                 "min": 0,
                 "max": 2
             }
-        ]
+        }
     },
     {
         "name": "Spearhead Detachment",
         "cp": 3,
-        "roleSettings": [
-            {
+        "roleSettings": {
+            "HQ": {
                 "role": "HQ",
                 "min": 1,
                 "max": 2
             },
-            {
+            "Troops": {
                 "role": "Troops",
                 "min": 0,
                 "max": 3
             },
-            {
+            "Elites": {
                 "role": "Elites",
                 "min": 0,
                 "max": 2
             },
-            {
+            "FastAttack": {
                 "role": "FastAttack",
                 "min": 0,
                 "max": 2
             },
-            {
+            "HeavySupport": {
                 "role": "HeavySupport",
                 "min": 3,
                 "max": 6
             },
-            {
+            "Flyer": {
                 "role": "Flyer",
                 "min": 0,
                 "max": 2
             }
-        ]
+        }
     },
     {
         "name": "Outrider Detachment",
         "cp": 3,
-        "roleSettings": [
-            {
+        "roleSettings": {
+            "HQ": {
                 "role": "HQ",
                 "min": 1,
                 "max": 2
             },
-            {
+            "Troops": {
                 "role": "Troops",
                 "min": 0,
                 "max": 3
             },
-            {
+            "Elites": {
                 "role": "Elites",
                 "min": 0,
                 "max": 2
             },
-            {
+            "FastAttack": {
                 "role": "FastAttack",
                 "min": 3,
                 "max": 6
             },
-            {
+            "HeavySupport": {
                 "role": "HeavySupport",
                 "min": 0,
                 "max": 2
             },
-            {
+            "Flyer": {
                 "role": "Flyer",
                 "min": 0,
                 "max": 2
             }
-        ]
+        }
     }
 ]
