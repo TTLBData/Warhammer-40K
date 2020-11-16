@@ -1,7 +1,7 @@
 [
     {
         "name": "Patrol Detachment",
-        "commandPoints": 2,
+        "cp": 2,
         "roleSettings": [
             {
                 "role": "HQ",
@@ -37,7 +37,7 @@
     },
     {
         "name": "Battalion Detachment",
-        "commandPoints": 3,
+        "cp": 3,
         "roleSettings": [
             {
                 "role": "HQ",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Brigade Detachment",
-        "commandPoints": 4,
+        "cp": 4,
         "roleSettings": [
             {
                 "role": "HQ",
@@ -109,7 +109,7 @@
     },
     {
         "name": "Vanguard Detachment",
-        "commandPoints": 3,
+        "cp": 3,
         "roleSettings": [
             {
                 "role": "HQ",
@@ -145,7 +145,7 @@
     },
     {
         "name": "Spearhead Detachment",
-        "commandPoints": 3,
+        "cp": 3,
         "roleSettings": [
             {
                 "role": "HQ",
@@ -181,7 +181,7 @@
     },
     {
         "name": "Outrider Detachment",
-        "commandPoints": 3,
+        "cp": 3,
         "roleSettings": [
             {
                 "role": "HQ",
